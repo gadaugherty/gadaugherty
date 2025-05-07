@@ -1,4 +1,4 @@
-![tryhackme stats](https://raw.githubusercontent.com/<gRRReat>/<gRRReat>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<gRRReat>/master/assets/thm_propic.png)
 
 <!--
 **gadaugherty/gadaugherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
