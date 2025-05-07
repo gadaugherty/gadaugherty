@@ -1,4 +1,8 @@
-![tryhackme stats](https://raw.githubusercontent.com/gadaugherty/gadaugherty/master/assets/thm_propic.png)
+### 🧠 My TryHackMe Badge
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gRRReat.png)](https://tryhackme.com/p/gRRReat)
+
+
 <!--
 **gadaugherty/gadaugherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
