@@ -1,7 +1,7 @@
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gRRReat.png)](https://tryhackme.com/p/gRRReat)
 
-Working on making a simple SIEM tool
+Working on a simple SIEM tool
 
 <!--
 **gadaugherty/gadaugherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
