@@ -2,7 +2,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/gRRReat.png" alt="Your Image Badge" />
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=gadaugherty&theme=whatsapp-dark&border_radius=4&card_width=190&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gadaugherty&show_icons=true&theme=tokyonight&hide_title=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gadaugherty&theme=whatsapp-dark&border_radius=4&card_width=190&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) 
 
 ### About Me
 
