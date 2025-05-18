@@ -2,7 +2,7 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gRRReat.png)](https://tryhackme.com/p/gRRReat)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=gRRReat&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gadaugherty&theme=tokyonight)](https://git.io/streak-stats)
 
 ### About Me
 
