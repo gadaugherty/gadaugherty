@@ -1,19 +1,31 @@
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gRRReat.png)](https://tryhackme.com/p/gRRReat)
 
-Working on a simple SIEM tool
-Learning more about cybersecurity everyday.
-<!--
-**gadaugherty/gadaugherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=gRRReat&theme=tokyonight)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve always had a thing for systems—figuring out how they run, where they break, and what makes them tick.  
+My path started in the military, took a detour through operations and tech, and now it's all about security.  
+
+You’ll usually find me deep in a packet capture, writing quick scripts to make sense of alerts, or chasing patterns in noisy logs.
+
+- Active on TryHackMe: [gRRReat](https://tryhackme.com/p/gRRReat)  
+- Building [Pixel-Lite-SOC](https://github.com/yourusername/pixel-lite-soc) to experiment with alert visualization and threat hunting  
+- Into Python, terminals, weird bugs, and learning by doing
+
+---
+
+### What I’m Working On
+
+- Digging deeper into detection engineering and incident response  
+- Exploring ways to simplify security tools without dumbing them down  
+- Always building, always breaking (then fixing, ideally with less coffee)
+
+---
+
+### Reach Out
+
+- Or just drop a shell and ping me
+
