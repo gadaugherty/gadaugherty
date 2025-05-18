@@ -22,7 +22,7 @@ You’ll usually find me deep in a packet capture, writing quick scripts to make
 - Digging deeper into detection engineering and incident response  
 - Exploring ways to simplify security tools without dumbing them down  
 - Always building, always breaking (then fixing, ideally with less coffee)
-
+![gRRReat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadaugherty&show_icons=true&theme=tokyonight&hide_title=true)
 ---
 
 ### Reach Out
