@@ -2,7 +2,7 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gRRReat.png)](https://tryhackme.com/p/gRRReat)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=gadaugherty&theme=whatsapp-dark&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gadaugherty&theme=whatsapp-dark&border_radius=4&card_width=190&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ### About Me
 
@@ -22,7 +22,9 @@ You’ll usually find me deep in a packet capture, writing quick scripts to make
 - Digging deeper into detection engineering and incident response  
 - Exploring ways to simplify security tools without dumbing them down  
 - Always building, always breaking (then fixing, ideally with less coffee)
-![gRRReat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadaugherty&show_icons=true&theme=tokyonight&hide_title=true)
+- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gadaugherty&show_icons=true&theme=tokyonight&hide_title=true)
+
 ---
 
 ### Reach Out
