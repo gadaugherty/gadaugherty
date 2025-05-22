@@ -2,7 +2,8 @@
 
 ### About Me
 
-I’ve always had a thing for systems—figuring out how they run, where they break, and what makes them tick.  
+I'm jus a noob.
+I’ve always had a thing for compooters, figuring out how they run, where they break, and what makes them tick.  
 My path started in the military, took a detour through operations and tech, and now it's all about security.  
 
 You’ll usually find me deep in a packet capture, writing quick scripts to make sense of alerts, or chasing patterns in noisy logs.
