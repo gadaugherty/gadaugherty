@@ -2,7 +2,6 @@
 
 ### About Me
 
-I'm jus a noob.
 I’ve always had a thing for compooters, figuring out how they run, where they break, and what makes them tick.  
 My path started in the military, took a detour through operations and tech, and now it's all about security.  
 
