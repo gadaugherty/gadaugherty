@@ -20,9 +20,3 @@ You’ll usually find me deep in a packet capture, writing quick scripts to make
 - Always building, always breaking (then fixing, ideally with less coffee)
   
 
----
-
-### Reach Out
-
-- Or just drop a shell and ping me
-
