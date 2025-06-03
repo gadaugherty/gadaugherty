@@ -2,10 +2,7 @@
 
 ### About Me
 
-I’ve always had a thing for compooters, figuring out how they run, where they break, and what makes them tick.  
-My path started in the military, took a detour through operations and tech, and now it's all about security.  
-
-You’ll usually find me deep in a packet capture, writing quick scripts to make sense of alerts, or chasing patterns in noisy logs.
+I’ve always had a thing for compooters, figuring out how they run, where they break, and what makes them tick.   
 
 - Active on TryHackMe: [gRRReat](https://tryhackme.com/p/gRRReat)  
 - Building [Pixel-Lite-SOC](https://github.com/yourusername/pixel-lite-soc) to experiment with alert visualization and threat hunting  
