@@ -5,8 +5,8 @@
 I’ve always had a thing for compooters, figuring out how they run, where they break, and what makes them tick.   
 
 - Active on TryHackMe: [gRRReat](https://tryhackme.com/p/gRRReat)  
-- Building [Pixel-Lite-SOC](https://github.com/yourusername/pixel-lite-soc) to experiment with alert visualization and threat hunting  
-- Into Python, terminals, weird bugs, and learning by doing
+- Building security tools for fun. 
+- Into Python, terminals, weird bugs, and learning by doing.
 
 ---
 
