@@ -4,8 +4,8 @@
 
 I’ve always had a thing for technology, taking things apart, figuring out how they run, find where they break, etc etc
 
-In the 90s I used to phreak phones as a young kid, then I got my first computer from a special person, a compaq presario in 1998. 
-Then iphones came out and jailbroke them for friends
+In the 90s I used to phreak phones as a young kid, then I got my first computer from a special person, a compaq presario in 98.
+I taught all my friends how to use napster (lots of angry moms came from this) Then iphones came out and jailbroke them for friends
 
 This is not my only git account but I created it for professional purposes
 
