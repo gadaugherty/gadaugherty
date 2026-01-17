@@ -10,12 +10,3 @@ This is not my only git account but I created it for professional purposes
 - Building security tools for fun
 - Into Python, terminals, fixing bugs, and learning by doing
 
----
-
-### What I’m Working On
-
-- Digging deeper into detection engineering and incident response  
-- Exploring ways to simplify security tools  
-- Always building, always breaking (then fixing, ideally with less coffee)
-  
-
