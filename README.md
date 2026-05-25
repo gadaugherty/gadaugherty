@@ -6,7 +6,7 @@
 
 ---
 
-🔭 **Currently:**
+ **Currently:**
 - Researching multi-agent adversarial systems and LLM red-teaming
 - Building offensive security tooling and automated purple-team frameworks
 - Sharpening on TryHackMe: [gRRReat](https://tryhackme.com/p/gRRReat)
